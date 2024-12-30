@@ -1,4 +1,4 @@
-# Email-SMS-Spam-Detection
+# Email-SMS-Spam-Detection 🎓💼
 This project uses a machine learning model to classify SMS messages as spam or not spam.
 
 # Features
